@@ -10,6 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    int hi;
     String value="";
     EditText field;
     Button zero, one, two, three, four, five, six, seven, eight, nine, point;
